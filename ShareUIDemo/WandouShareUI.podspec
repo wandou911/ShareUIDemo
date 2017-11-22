@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "WandouShareUI"
-  s.version      = "0.0.1"
+  s.version      = "0.0.4"
   s.summary      = "CocoaPods组件化实践"
 
   # This description is used to generate tags and improve search results.
